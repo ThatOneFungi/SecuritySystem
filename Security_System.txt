@@ -1,6 +1,40 @@
 {
-  "allowedEmail": "dimabal818@gmail.com",
-  "adminPassword": "cactus",
+  "allowedEmail": {
+    "ciphertext": "pAWYK8/lL++hY21q2oG9Ha6/LTDWMgp4pKMpk9tNG5F+aLpr",
+    "salt": [
+      42,
+      9,
+      244,
+      198,
+      85,
+      157,
+      226,
+      17,
+      13,
+      210,
+      43,
+      221,
+      0,
+      103,
+      211,
+      186
+    ],
+    "iv": [
+      54,
+      228,
+      246,
+      215,
+      145,
+      141,
+      111,
+      212,
+      134,
+      59,
+      114,
+      44
+    ]
+  },
+  "adminPassword": "caaeac3184e90c7f8587d692f03105bfe111982ab663ed6c6e1d0237eb3420f2",
   "whitelist": [
     "accounts.google.com",
     "gradelink.com",
