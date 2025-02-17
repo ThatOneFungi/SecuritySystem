@@ -60,7 +60,7 @@
     "blacklistedUrls": [
         "youtube.com",
         "kidzsearch.com/questions/",
-        "https://www.ducksters.com/games/",
+        "https://www.ducksters.com/games/*",
         "net.kidzsearch.com/",
         "games.kidzsearch.com",
         "https://www.kidzsearch.com/kidztube/",
