@@ -66,6 +66,7 @@
         "https://search.kidzsearch.com/kzgamesearch.php",
         "https://kidzsearch.com/kidztube/search.php",
         "https://search.kidzsearch.com/kzappsearch.php",
+        "https://search.kidzsearch.com/kzvideosearch.php",
         "kidzsearch.com/radio.html",
         "kidzsearch.com/boolify/",
         "www.kidzsearch.com/sites.html",
