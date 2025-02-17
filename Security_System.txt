@@ -156,7 +156,6 @@
     "grooming",
     "predator",
     "pedo",
-    "cheat",
     "exam cheat",
     "test answers",
     "homework answers",
@@ -291,8 +290,6 @@
     "choppa",
     "blicky",
     "glock switch",
-    "FN",
-    "opps",
     "spin the block",
     "gang hit",
     "black market",
@@ -332,12 +329,5 @@
       "value": "groups"
     }
   ],
-  "redirectUrl": "https://www.kidzsearch.com/images.html",
-  "advancedSettings": {
-        "disableBookmarks": true,
-        "disableInspectElement": true,
-        "disableIncognito": true,
-        "maxTabs": 5,
-        "disableSettings": true
-    }
+  "redirectUrl": "https://www.kidzsearch.com/images.html"
 }
