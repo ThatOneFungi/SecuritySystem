@@ -59,6 +59,7 @@
     ],
     "blacklistedUrls": [
         "youtube.com",
+        "chromewebstore.google.com",
         "kidzsearch.com/questions/",
         "net.kidzsearch.com/",
         "games.kidzsearch.com",
