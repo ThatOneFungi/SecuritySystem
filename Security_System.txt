@@ -18,6 +18,7 @@
         "eric.ed.gov",
         "loc.gov",
         "temp-mail.org",
+        "ducksters.com",
         "canva.com",
         "science.gov",
         "britannica.com",
@@ -44,7 +45,6 @@
         "citationmachine.net",
         "easybib.com",
         "bibme.org",
-        "wikipedia.org",
         "bbc.com",
         "reuters.com",
         "apnews.com",
@@ -63,6 +63,10 @@
         "kidzsearch.com/questions/",
         "net.kidzsearch.com/",
         "games.kidzsearch.com",
+        "https://www.kidzsearch.com/kidztube/",
+        "https://search.kidzsearch.com/kzgamesearch.php",
+        "kidzsearch.com/kidztube/search.php",
+        "search.kidzsearch.com/kzappsearch.php",
         "kidzsearch.com/radio.html",
         "kidzsearch.com/boolify/",
         "www.kidzsearch.com/sites.html",
@@ -233,7 +237,6 @@
         "furry site",
         "henti",
         "h3ntai",
-        "ass",
         "tentacle",
         "ahegao",
         "cali plug",
@@ -268,10 +271,7 @@
         "casino bonus",
         "betting tips",
         "slot strategy",
-        "poker cheat",
-        "dark web market",
-        "phishing site",
-        "database leak"
+        "poker cheat"
     ],
     "blockedGoogleServices": [
         {
