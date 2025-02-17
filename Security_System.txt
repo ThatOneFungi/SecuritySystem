@@ -1,39 +1,4 @@
 {
-    "allowedEmail": {
-        "ciphertext": "qfDKNriBtO/VnJQCaLwhr44oNAll0cEe8py+sSAzLp22doKdBpSsRLPnBlA=",
-        "salt": [
-            206,
-            68,
-            131,
-            242,
-            179,
-            190,
-            172,
-            121,
-            55,
-            6,
-            167,
-            245,
-            224,
-            233,
-            232,
-            241
-        ],
-        "iv": [
-            91,
-            124,
-            179,
-            19,
-            129,
-            139,
-            79,
-            148,
-            72,
-            166,
-            249,
-            47
-        ]
-    },
     "adminPassword": "caaeac3184e90c7f8587d692f03105bfe111982ab663ed6c6e1d0237eb3420f2",
     "whitelist": [
         "accounts.google.com",
