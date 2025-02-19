@@ -68,6 +68,7 @@
         "https://www.ducksters.com/games/classic_games.php",
         "https://www.ducksters.com/games/sports_games.php",
         "https://www.ducksters.com/games/typing_games.php",
+        "https://www.kidzsearch.com/ksthm.html",
         "net.kidzsearch.com/",
         "games.kidzsearch.com",
         "https://www.kidzsearch.com/kidztube/",
