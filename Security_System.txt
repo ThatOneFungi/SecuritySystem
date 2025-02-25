@@ -8,7 +8,7 @@
         "kidzsearch.com",
         "nasdaq.com",
         "sciencebuddies.org",
-        "brush.ninja"
+        "brush.ninja",
         "drive.google.com",
         "google.com",
         "maps.google.com",
