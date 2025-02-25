@@ -1,4 +1,3 @@
-# SecuritySystem
 # Achilles Shield - Browser Extension for Focused Learning
 
 Achilles Shield is a Chrome extension designed to create a safer and more focused online learning environment for students at a specific private middle school. It provides customizable web filtering capabilities, allowing the school to manage website access, block inappropriate content, and restrict access to distracting or unfiltered online resources.
