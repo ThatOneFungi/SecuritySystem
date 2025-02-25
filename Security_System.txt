@@ -7,7 +7,8 @@
         "finance.yahoo.com",
         "kidzsearch.com",
         "nasdaq.com",
-        "trumplibrary.gov",
+        "sciencebuddies.org",
+        "brush.ninja"
         "drive.google.com",
         "google.com",
         "maps.google.com",
